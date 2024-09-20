@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MemoryCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|d:\\memorycache\\memorycache\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|solutionrelative:memorycache\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|d:\\memorycache\\memorycache\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|solutionrelative:memorycache\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|d:\\memorycache\\memorycache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|solutionrelative:memorycache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|d:\\memorycache\\memorycache\\classtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7615690-6478-46C1-9609-34B28B89767A}|MemoryCache\\MemoryCache.csproj|solutionrelative:memorycache\\classtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MemoryCache\\MemoryCache\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\Program.cs",
+              "ToolTip": "D:\\MemoryCache\\MemoryCache\\Program.cs",
+              "RelativeToolTip": "MemoryCache\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:21:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\MemoryCache\\MemoryCache\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "MemoryCache\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\MemoryCache\\MemoryCache\\Components\\Pages\\Weather.razor*",
+              "RelativeToolTip": "MemoryCache\\Components\\Pages\\Weather.razor*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:06:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassTest.cs",
+              "DocumentMoniker": "D:\\MemoryCache\\MemoryCache\\ClassTest.cs",
+              "RelativeDocumentMoniker": "MemoryCache\\ClassTest.cs",
+              "ToolTip": "D:\\MemoryCache\\MemoryCache\\ClassTest.cs",
+              "RelativeToolTip": "MemoryCache\\ClassTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:57:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\MemoryCache\\MemoryCache\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MemoryCache\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\MemoryCache\\MemoryCache\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MemoryCache\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:56:39.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

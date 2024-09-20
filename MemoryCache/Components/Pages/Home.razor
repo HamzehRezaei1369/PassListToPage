@@ -1,0 +1,23 @@
+﻿@page "/"
+@using Microsoft.Extensions.Caching.Memory
+@inject IMemoryCache MemoryCache
+@inject NavigationManager nav
+@rendermode InteractiveServer
+<button @onclick="Fun">SendList</button>
+@code {
+    List<ClassTest>? lstTest;
+    void Fun()
+    {
+        lstTest = new List<ClassTest>()
+        {
+            new ClassTest(){FirsName="Hamzeh",LastName="Rezaei"},
+            new ClassTest(){FirsName="Hamid",LastName="Asadi"},
+            new ClassTest(){FirsName="Majid",LastName="JalalVand"}
+
+        };
+        Guid guid = Guid.NewGuid() ;
+        MemoryCache.Set(guid, lstTest);
+        nav.NavigateTo($"/weather/{guid}");
+    }
+}
+

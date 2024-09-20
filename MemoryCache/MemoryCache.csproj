@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\MemoryCache\MemoryCache\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\MemoryCache\MemoryCache\.editorconfig" />
+  </ItemGroup>
+
+</Project>
