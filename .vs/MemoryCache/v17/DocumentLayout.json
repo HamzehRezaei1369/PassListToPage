@@ -42,8 +42,7 @@
               "RelativeToolTip": "MemoryCache\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T10:21:20.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T10:21:20.028Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "MemoryCache\\Components\\Pages\\Weather.razor",
               "ToolTip": "D:\\MemoryCache\\MemoryCache\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "MemoryCache\\Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAMwB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-20T10:06:12.975Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "MemoryCache\\ClassTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:57:30.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T09:57:30.367Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "MemoryCache\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T09:56:39.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T09:56:39.635Z"
             }
           ]
         }

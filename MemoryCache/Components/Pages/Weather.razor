@@ -41,6 +41,7 @@
     protected override void OnParametersSet()
     {
         lstTest = MemoryCache.Get<List<ClassTest>>(GuidList)??new();
+
     }
     protected override async Task OnInitializedAsync()
     {
